@@ -45,8 +45,8 @@ void quickSort(int *arr,int start,int end)
             }
         }
         arr[fpoint] = temp;
-        quickSort(arr,start,fpoint-1);
-        quickSort(arr,bpoint+1,end);
+        quickSort(arr,start,fpoint - 1);
+        quickSort(arr,bpoint + 1,end);
     }
 }
 
