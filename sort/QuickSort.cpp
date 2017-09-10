@@ -1,3 +1,8 @@
+/**
+ * 快速排序
+ * author:xwhdlm
+ */
+
 #include <iostream>
 
 using namespace std;
